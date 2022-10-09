@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.TrafficServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-09T22:20:30" hostname="AUMEL-MBP13-SN2" time="0.019">
+  <properties/>
+  <testcase name="shouldGetSmallestTrafficPeriodChunk()" classname="com.example.TrafficServiceTest" time="0.013"/>
+  <testcase name="shouldThrowOnOutOfBoundsToGetBiggestTraffic()" classname="com.example.TrafficServiceTest" time="0.002"/>
+  <testcase name="shouldTop3GetBiggestTraffic()" classname="com.example.TrafficServiceTest" time="0.0"/>
+  <testcase name="shouldGetCountByDate()" classname="com.example.TrafficServiceTest" time="0.001"/>
+  <testcase name="shouldGetTotalCount()" classname="com.example.TrafficServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
